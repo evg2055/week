@@ -8,8 +8,17 @@
     color: blue;
     background-color: black;
 }
-
 .p {
     width: 50%;
     margin: 0 auto;
+}
+.weekdays {
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.weekend {
+    font-weight: 1000;
+    font-size: 50px;
+    color: red;
+    text-transform: capitalize;
 }
